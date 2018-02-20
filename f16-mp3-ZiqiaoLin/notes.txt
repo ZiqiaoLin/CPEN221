@@ -1,0 +1,14 @@
+Text File
+
+Hours worked: 15 hours
+
+How we divided up the work:
+
+
+We were both responsible for implementing the matrixes. Daniel was responsible for implementing Shortest Distance, Common Upstream Vertexes and Common Downstream Vertexes and the tests correspondent for them. Rodrigo was responsible for DFS and BFS and its correspondent tests.
+
+
+Graph interface:
+
+
+With the methods provided we were able to perform the operations that have been required. A toString method, however, might have been useful to visualize the graph.
